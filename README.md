@@ -15,8 +15,7 @@ I’m a dedicated Java developer with strong experience in building backend appl
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-![TG](https://github.com/ayazFromCentralAsia/ayazfromcentralasia/edit/main/images.jpeg)](https://t.me/Viliam_ra)
+[![TG](https://github.com/ayazFromCentralAsia/ayazfromcentralasia/raw/main/images.jpeg)](https://t.me/Viliam_ra)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayazFromCentralAsia&icon=0&color=0)](https://visitcount.itsvg.in)
