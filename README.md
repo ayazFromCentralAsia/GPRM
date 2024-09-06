@@ -16,7 +16,7 @@ I’m a dedicated Java developer with strong experience in building backend appl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMemesJob%2F&psig=AOvVaw0tt4IOSYurzSZWyRGLXc2z&ust=1725694139122000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiT4OTlrYgDFQAAAAAdAAAAABAE)](https://t.me/Viliam_ra)
+![TG](https://github.com/ayazFromCentralAsia/ayazfromcentralasia/edit/main/images.jpeg)](https://t.me/Viliam_ra)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayazFromCentralAsia&icon=0&color=0)](https://visitcount.itsvg.in)
